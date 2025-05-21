@@ -78,7 +78,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1389-wl55jc-lowband-d04_schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32WL55JCIx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32WL55"/>
       <feature type="ODbg"      n="1"              name="On-board STLINK-V3E"/>
       <feature type="PWR"       n="5"              name="USB VBUS, ext. VIN, ext. 5V, ext +3.3V, STD_ALONE_5V"/>
       <feature type="CustomFF"  n="2"              name="STMicroelectronics Morpho connector"/>
@@ -104,7 +103,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1389-wl55jc-lowband-d04_schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32WL55JCIx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32WL55"/>
       <feature type="ODbg"      n="1"              name="On-board STLINK-V3E"/>
       <feature type="PWR"       n="5"              name="USB VBUS, ext. VIN, ext. 5V, ext +3.3V, STD_ALONE_5V"/>
       <feature type="CustomFF"  n="2"              name="STMicroelectronics Morpho connector"/>
