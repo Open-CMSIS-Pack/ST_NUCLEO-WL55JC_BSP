@@ -47,3 +47,10 @@ project:
       regions: ./RTE/Device/STM32WL55JCIx_CM4/regions_NUCLEO-WL55JC2.h
       for-compiler: AC6
       for-context: +NUCLEO-WL55JC2
+
+  # List executable file formats to be generated.
+  output:
+    type:
+      - elf
+      - hex
+      - map

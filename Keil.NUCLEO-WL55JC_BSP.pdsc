@@ -17,10 +17,11 @@
     <release version="1.0.1-dev">
       Active development ...
       Blinky project:
-      - specify thread names using thread attributes
-      - rename thread IDs
-      - modify app_main_thread (replace loop forever)
-      - add DWARF-5 debug information
+      - Specified thread names using thread attributes
+      - Renamed thread IDs
+      - Modified app_main_thread (replaced loop forever)
+      - Added DWARF-5 debug information
+      - Added generated output files
     </release>
   </releases>
 
